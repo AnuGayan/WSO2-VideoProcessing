@@ -10,9 +10,9 @@ Python-dev
 Java (JAVA_HOME and java PATH should be set up) 
 
 Install cmake-gui, python-dev, and other prerequisites.
-
+'''
 $ sudo apt-get install build-essential python-dev cmake-gui 
-
+'''
 Next, OpenCV 2.4.13 can be cloned from OpenCV github repository using following code
  $ git clone https://github.com/opencv/opencv.git
 
