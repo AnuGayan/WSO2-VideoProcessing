@@ -44,4 +44,4 @@ This will install the OpenCV in to the machine.
 
 ### Run the program
 
-Clone the required project and open as a Intellij project.
+Clone the required project and open as a Intellij project. All the libraries that have been used is in the lib folder and required resources to run this project are in the resource folder. 
